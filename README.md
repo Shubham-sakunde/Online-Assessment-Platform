@@ -7,7 +7,7 @@ This project is an Online assessment platform developed using Java technologies.
 - Exam Taking: Users can select and take available exams online.
 - Answer Submission: Users can submit their answers for each question in the exam.
 - Score Calculation: The system calculates scores point-wise based on the correctness of answers.
-- Results Display: Users can view their exam results immediately after submission.  
+- Results Display: Users can view their exam results immediately after submission.   
 - RESTful API: The system provides RESTful APIs for seamless integration with other applications.
 - Database Persistence: Utilizes MySQL database for storing user information, exam details, and results.
 - Postman Testing: APIs can be tested using Postman for reliability and functionality.
